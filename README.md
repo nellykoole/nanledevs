@@ -80,7 +80,7 @@
 
 Open Source Contributor from <b>Nigeria<b> 💚
 
-![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
+![](https://visitor-badge.glitch.me/badge?page_id=nellykoole.nellykoole)
 
 [Daily Walk With Christ]: https://play.google.com/store/apps/details?id=com.nanledevs.dailywalkwithchrist&hl=en&gl=US
 [Pro Status Saver]: https://play.google.com/store/apps/details?id=com.nanledevs.css
